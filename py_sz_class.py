@@ -1,3 +1,5 @@
+#python class that calls c functions to handle compression/decompression
+
 import sz_class
 import numpy as np
 
